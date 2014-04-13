@@ -4,7 +4,7 @@ from urllib2 import Request, urlopen
 from urllib import urlencode
 from lxml import html
 from math import ceil
-from shopping_parser.parser.exceptions import *
+from .exceptions import *
 
 
 class Condition(object):

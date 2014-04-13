@@ -47,7 +47,7 @@ class NaverShopping(object):
         self.paging_index = 1
 
         url = self.__build_url()
-        i = self.parse(url)
+        i = self.parse_url(url)
         self.total = i[1]
         return i[0]
 
@@ -61,7 +61,7 @@ class NaverShopping(object):
             self.paging_index -= 1
 
         url = self.__build_url()
-        return self.parse(url)[0]
+        return self.parse_url(url)[0]
 
     def next(self):
         if not self.keyword:
@@ -72,7 +72,7 @@ class NaverShopping(object):
 
         self.paging_index += 1
         url = self.__build_url()
-        return self.parse(url)[0]
+        return self.parse_url(url)[0]
 
     def __build_url(self):
         url = self.pre_url + urlencode({
@@ -83,13 +83,16 @@ class NaverShopping(object):
         })
         return url
 
-    @staticmethod
-    def parse(url=None):
+    def parse_url(self, url=None):
         if not url:
             raise NoUrlGivenError
         r = Request(url=url)
         response = urlopen(r, timeout=30)
-        tree = html.fromstring(response.read())
+        return self.parse_html(response.read())
+
+    @staticmethod
+    def parse_html(html_string=''):
+        tree = html.fromstring(html_string)
 
         data = []
         for item in tree.cssselect('li.sr_lst'):
@@ -112,6 +115,7 @@ class NaverShopping(object):
         for j in tree.cssselect('span.sr_pg2_total'):
             total = float(j.text_content().strip().split()[-1])
         return [data, total]
+
 
     def __repr__(self):
         return u'<NaverShopping %s>' % self.keyword

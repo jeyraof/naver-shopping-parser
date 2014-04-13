@@ -73,3 +73,12 @@ Usage
     >>> data2 = n.next()
     >>> print data2[0]
     <[스페리 탑사이더 초특가 SALE] 데저트 부츠 Boat Oxford Boot 다크탄 0297432 SPERRY 보트슈즈 로퍼 - 109,500>
+
+
+Continuous Integration (Travis CI)
+----------------------------------
+    http://travis-ci.org/jeyraof/naver-shopping-parser
+
+    .. image:: https://travis-ci.org/jeyraof/monodiary.net.png?branch=master
+        :alt: Build Status
+        :target: http://travis-ci.org/jeyraof/naver-shopping-parser

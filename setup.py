@@ -34,4 +34,8 @@ setup(
     tests_require=[
         'pytest >= 2.3.0',
     ],
+    install_requires=[
+        'lxml',
+        'cssselect',
+    ]
 )

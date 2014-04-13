@@ -1,0 +1,1150 @@
+<!doctype html>
+<html lang="ko">
+	<head>
+		<meta charset="utf-8"/>
+<meta name="format-detection" content="telephone=no" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no,target-densitydpi=medium-dpi"/><meta property="og:type" content="article"/>
+	<meta property="og:article:thumbnailUrl" content="http://static.shopping.naver.net/m3/icon/57.png"/>
+		<meta property="og:article:author" content="네이버 지식쇼핑"/>
+		<meta property="og:article:author:url" content="http://m.shopping.naver.com"/>
+<title>네이버 지식쇼핑</title>
+<link rel="shortcut icon" href="http://static.shopping.naver.net/mobile_v2.ico" type="image/x-icon"/>
+
+<link rel="apple-touch-icon" href="http://static.shopping.naver.net/m3/icon/a72.png" />
+	<link rel="apple-touch-icon" sizes="36x36" href="http://static.shopping.naver.net/m3/icon/a36.png" />
+	<link rel="apple-touch-icon" sizes="48x48" href="http://static.shopping.naver.net/m3/icon/a48.png" />
+	<link rel="apple-touch-icon" sizes="96x96" href="http://static.shopping.naver.net/m3/icon/a96.png" />
+	<link rel="apple-touch-icon" sizes="108x108" href="http://static.shopping.naver.net/m3/icon/a108.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="http://static.shopping.naver.net/m3/icon/a144xx.png" />
+	<link rel="apple-touch-icon" sizes="192x192" href="http://static.shopping.naver.net/m3/icon/a192.png" />
+	
+	<link rel="apple-touch-icon-precomposed" href="http://static.shopping.naver.net/m3/icon/a72.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="36x36" href="http://static.shopping.naver.net/m3/icon/a36.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="48x48" href="http://static.shopping.naver.net/m3/icon/a48.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="96x96" href="http://static.shopping.naver.net/m3/icon/a96.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="108x108" href="http://static.shopping.naver.net/m3/icon/a108.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://static.shopping.naver.net/m3/icon/a144xx.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="192x192" href="http://static.shopping.naver.net/m3/icon/a192.png" />
+	
+	<meta name="mobile-web-app-capable" content="yes">
+	<link rel="shortcut icon" href="http://static.shopping.naver.net/m3/icon/a72.png" />
+	<link rel="shortcut icon" sizes="36x36" href="http://static.shopping.naver.net/m3/icon/a36.png" />
+	<link rel="shortcut icon" sizes="48x48" href="http://static.shopping.naver.net/m3/icon/a48.png" />
+	<link rel="shortcut icon" sizes="96x96" href="http://static.shopping.naver.net/m3/icon/a96.png" />
+	<link rel="shortcut icon" sizes="108x108" href="http://static.shopping.naver.net/m3/icon/a108.png" />
+	<link rel="shortcut icon" sizes="144x144" href="http://static.shopping.naver.net/m3/icon/a144xx.png" />
+	<link rel="shortcut icon" sizes="192x192" href="http://static.shopping.naver.net/m3/icon/a192.png" />
+<link rel="stylesheet" type="text/css" href="http://static.shopping.naver.net/m3/css/_we_v141.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="http://static.shopping.naver.net/m3/css/_search2_v8.css" media="all"/>
+<style type="text/css"></style>
+
+
+</head>	
+	
+	<body class="">
+		<div class="u_skip"><a id="_gotoct_top" href="#ct">본문 바로가기</a></div>
+		
+<header role="banner">
+			<h1 class="u_ts">
+				<a href="/" class="N=a:gnb.shopping gnb"><span class="u_hc">지식쇼핑</span></a><a href="http://m.checkout.naver.com/mobile/home" class="N=a:gnb.checkout gnb"><span class="u_hc">체크아웃</span></a>
+			</h1>
+			<a href="http://m.naver.com/" class="N=a:gnb.naver gnb naver"><span class="u_hc">NAVER</span></a>			
+			<aside>
+				<div id="u_gnbw" class="u_gnbw">
+					<a id="_header_service" href="http://m.naver.com/services.html?f=svc.shopping" class="N=a:gnb.sitemap u_gnbt"><span class="u_vc">전체서비스 펼치기</span></a>
+				</div>
+			</aside>
+			<form action="/search/all_search.nhn" role="search" id="searchForm" method="get">
+			
+				<dl id="u_hs" class="u_hs" style="">
+					<dt><label for="sear" class="u_vc">검색</label></dt>
+					<dd>
+						<div class="u_itx">
+							<span class="u_itx_in">
+								<input type="text" id="msearch" name="query" title="검색어 입력" value="sperry 0297432" placeholder="검색어를 입력하세요" class="u_it2" id="sear" autocomplete="off">
+								<button type="button" class="N=a:gnb.rmkwd u_clrt2" id="hClearBt" style="display: none" onclick="return false;">입력 내용 삭제</button>
+							</span> 
+						</div> 
+						<button type="submit" class="N=a:gnb.search u_hssbt2 u_hssbt_ss2" id="hShopSearchBt"><span class="u_vc">지식쇼핑검색</span></button> 
+						<button type="submit" class="N=a:gnb.ss u_hssbt2 u_hssbt_us2" id="hNaverSearchBt"><span class="u_vc">음성검색</span></button>
+					</dd>
+				</dl>			
+					
+				<div id="u_hs_ac" class="atcp" style="display:none">
+					<h2 class="u_vc">자동완성</h2>
+					<ul id="search_suggest">
+						</ul>
+					<p class="atbt">
+						<button type="button" class="N=a:scb.close atbt_b"><span class="atbt_cl"></span>닫기</button>
+					</p>
+				</div>	
+				
+				<div id="u_hs_ac_recent" class="atcp" style="display:none" >
+					<ul class="u_tp_tab" id="u_hs_ac_recent_tab">
+						<li class="u_tp_tab_l u_tp_tab_on recent_keyword"><a href="#recent_keyword" class="N=a:scb.recent u_tp_tab_a">최근 검색어</a></li>
+						<li class="u_tp_tab_l popular_keyword"><a href="#popular_keyword" class="N=a:scb.best u_tp_tab_a">실시간 인기 쇼핑 검색어</a></li>
+					</ul>				
+				
+					<div id="recent_keyword">
+						<div class="u_tp_a">
+							<h2 class="u_vc">최근 검색어</h2>
+							<ul id="recent_keyword_ul"></ul>
+						</div>
+					</div>
+				
+					
+					<div id="popular_keyword" style="display: none">
+						<div class="u_tp_a">
+							<h2 class="u_vc">실시간 인기 쇼핑 검색어</h2>
+							<ol id="popular_keyword_ul"></ol>
+						</div>
+						<p class="atbt">
+							<button type="button" class="u_atcp_fcb">2013.02.22 20:33 기준</button>
+							<button type="button" class="N=a:scb.close atbt_b atbt_c"><span class="atbt_cl"></span>닫기</button>
+						</p>
+					</div>
+				</div>						 
+			</form>
+			<div id="_naverAppLinkDiv" style="display: none"></div>
+		</header>
+	<hr />
+		<!-- ct -->
+		<div id="ct" role="main" class="" style="">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+	
+		
+
+	
+	<ul class="detail_tit" id="_filterAreaTabWrapper">
+		<!--[D] 선택된 탭 li class="detail_lst_on" 추가 -->
+		
+		
+			
+					
+					<li class="detail_lst detail_lst_on"><a href="#" title="카테고리" class="N=a:dtl.cat _category" onclick="searchTab.toggleConent(this); return false;">카테고리</a></li>
+				
+			
+			
+		
+		
+		
+			<li class="detail_lst "><a href="#" title="브랜드" class="N=a:dtl.brand _brand" onclick="searchTab.toggleConent(this); return false;">브랜드</a></li>
+		
+		
+		
+		
+		<li class="detail_lst "><a href="#" title="가격"  class="N=a:dtl.price _price" onclick="searchTab.toggleConent(this); return false;">가격<span>/</span>색상</a></li>
+		<li class="detail_lst "><a href="#" title="혜택"  class="N=a:dtl.benefit _benefit" onclick="searchTab.toggleConent(this); return false;">혜택</a></li>
+	</ul>
+	
+	
+	
+	<h2 class="u_vc" id="_filterAreaHiddenTitle">연관</h2>
+	
+	
+	
+	
+	
+	
+		
+			
+			
+				<div class="de_relay de_cate _filterArea" id="_categoryFilterArea" style="display:block">									
+					
+													
+																					
+							<div class="cate_tit no_back">
+								<h3>
+									전체
+									<span class="count">(총 2개 카테고리)</span>
+								</h3>
+								<a href="#" class="btn_up"><span class="u_vc">이 전</span></a>
+								<button type="button" class="N=a:dtl*c.unfold de_btn de_open _category _closed" style="display: " onclick="searchTab.toggleConent(this);"><span>열기</span></button>																				
+							</div>
+						
+						
+					
+					
+					
+					
+					
+					
+						<div class="flick_view _opened" style="display: none" id="_categoryFilterAreaFlick" level="1">
+							<div class="flick-container">
+								<div class="flick-panel">
+									<ul>
+										
+											<li class="">
+												
+												<a href="/search/all_search.nhn?query=sperry+0297432&cat_id=40000049&selectedFilterTab=category" class="N=a:dtl*c.1c,i:40000049,r:1">
+													
+													<span class="cate_na">신발/잡화브랜드</span>
+													<span class="cate_no">31</span>
+												</a>
+											</li>
+											
+											
+										
+											<li class="">
+												
+												<a href="/search/all_search.nhn?query=sperry+0297432&cat_id=40000040&selectedFilterTab=category" class="N=a:dtl*c.1c,i:40000040,r:2">
+													
+													<span class="cate_na">신발/구두/운동화</span>
+													<span class="cate_no">3</span>
+												</a>
+											</li>
+											
+											
+										
+										
+										
+											
+												<li></li>
+											
+												<li></li>
+											
+												<li></li>
+											
+												<li></li>
+											
+												<li></li>
+											
+												<li></li>
+											
+												<li></li>
+											
+												<li></li>
+											
+																			
+									</ul>
+								</div>
+							</div>
+						</div>
+							
+								
+					<div class="detail_end _opened" style="display: none">
+					
+						
+						<button type="button" class="N=a:dtl*c.1fold de_btn de_close _category _opened" style="display: none" onclick="searchTab.toggleConent(this);"><span>닫기</span></button>
+					</div>								
+				</div>
+			
+		
+		
+	
+	
+	
+	
+	
+		<div class="de_relay de_brand _filterArea" id="_brandFilterArea" style="display:none">
+			<!-- 
+			<div class="detail_end detail_no _closed" style="display: none">
+				<span class="no_dsc"><span>상세검색으로 원하는 상품을 쉽게 찾을 수 있습니다.</span></span>
+				<button type="button" class="N=a:dtl*b.unfold de_btn de_open _brand" onclick="searchTab.toggleConent(this);"><span>열기</span></button>
+			</div>
+			 -->		
+		
+			
+			<div class="detail_end detail_end_v2 _closed _summary" style="display: none">
+				<span class="no_dsc"><span>상세검색으로 원하는 상품을 쉽게 찾을 수 있습니다.</span></span>
+				<div class="select_lst _selectedOptions" style="display: none"></div>
+				<button type="button" class="N=a:dtl*b.unfold de_btn de_open _brand" onclick="searchTab.toggleConent(this);"><span>열기</span></button>
+			</div>		
+		
+			<div class="flick_view _opened" id="_brandFilterAreaFlick">
+				<div class="flick-container">
+					<div class="flick-panel">
+						<ul>
+						
+							<li class="_candidateOptions " id="_brand@32493" title="Sperry Top-Sider">
+								<a href="#" class="N=a:dtl*B.list,i:32493,r:1 _brand" onclick="reloader.selectFilter(this); return false;" id="_brand_32493" title="Sperry Top-Sider">
+									Sperry Top-Sider<span class="brand_no">31</span>
+								</a>
+							</li>							
+							
+							
+												
+						
+							
+								<li></li>
+							
+								<li></li>
+							
+								<li></li>
+							
+								<li></li>
+							
+								<li></li>
+							
+								<li></li>
+							
+								<li></li>
+							
+								<li></li>
+							
+								<li></li>
+							
+												
+						</ul>
+					</div>
+				</div>
+			</div>			
+			
+			<div class="detail_end _opened">
+				<button type="button" class="N=a:dtl*b.reset de_reset de_re_on _brand" onclick="reloader.resetFilter(this);">초기화</button>
+				
+				
+				<button type="button" class="N=a:dtl*b.fold de_btn de_close _brand" onclick="searchTab.toggleConent(this);">
+					<span>닫기</span>
+				</button>
+			</div>			
+			
+		</div>	
+	
+	
+	
+	
+	
+		<div class="de_relay de_brand _filterArea" id="_makerFilterArea" style="display:none">
+					
+		
+			
+			<div class="detail_end detail_end_v2 _closed _summary" style="display: none">
+				<span class="no_dsc"><span>상세검색으로 원하는 상품을 쉽게 찾을 수 있습니다.</span></span>
+				<div class="select_lst _selectedOptions" style="display: none"></div>
+				<button type="button" class="N=a:dtl*m.unfold de_btn de_open _maker" onclick="searchTab.toggleConent(this);"><span>열기</span></button>
+			</div>				
+		
+			<div class="flick_view _opened" id="_makerFilterAreaFlick">
+				<div class="flick-container">
+					<div class="flick-panel">
+						<ul>
+						
+							<li class="_candidateOptions " id="_maker@175285" title="Sperry Top-Sider">
+								<a href="#" class="N=a:dtl*m.list,i:175285,r:1 _maker" onclick="reloader.selectFilter(this); return false;" id="_maker_175285" title="Sperry Top-Sider">
+									Sperry Top-Sider<span class="brand_no">30</span>
+								</a>
+							
+							
+						
+						
+						
+						
+							<li></li>
+						
+							<li></li>
+						
+							<li></li>
+						
+							<li></li>
+						
+							<li></li>
+						
+							<li></li>
+						
+							<li></li>
+						
+							<li></li>
+						
+							<li></li>
+						
+						
+						
+						</ul>
+					</div>
+				</div>
+			</div>	
+			
+			<div class="detail_end _opened">
+				<button type="button" class="N=a:dtl*m.reset de_reset de_re_on _maker" onclick="reloader.resetFilter(this);">초기화</button>
+				
+				<button type="button" class="N=a:dtl*m.fold de_btn de_close _maker" onclick="searchTab.toggleConent(this);"><span>닫기</span></button>
+			</div>					
+			
+		</div>		 
+	
+	
+	
+	
+	
+			
+	<div class="de_price de_price_v2 _filterArea" id="_priceFilterArea" style="display:none" >
+
+		
+
+		<div class="detail_end detail_end_v2 _closed _summary" style="display: none">
+			<span class="no_dsc"><span>상세검색으로 원하는 상품을 쉽게 찾을 수 있습니다.</span></span>
+			<strong class="price" id="_priceSelected" style="display: none"></strong>
+			<ul class="color_area _selectedOptions" style="display: none"></ul>
+			<button type="button" class="N=a:dtl*p.unfold de_btn de_open _price" onclick="searchTab.toggleConent(this);"><span>열기</span></button>
+		</div>		
+	
+		<div class="price_box _opened">	
+			<h3>가격대 검색
+				<span class="be_ck">(96,260 ~ 179,600원)</span>
+			</h3>				 
+			<div class="price_input">
+				<div class="price_input_in">
+					<span class="price_lst">
+					<label for="min_p" class="u_vc">최소가격입력</label>
+					<span class="p_in"><span class="p_in2"><input type="number" id="min_p" value=""></span></span> 
+					</span>
+					<span class="price_lst">~</span>
+					<span class="price_lst">
+					<label for="max_p" class="u_vc">최대가격입력</label>
+					<span class="p_in"><span class="p_in2"><input type="number" id="max_p" value=""></span></span>
+					</span>
+				</div>
+				<a href="#" class="N=a:dtl*p.search _price" onclick="reloader.selectFilter(this); return false;">
+					<button type="button" ><span class="dod"></span>가격검색</button>
+				</a>
+			</div>
+		</div>
+		<div class="color_box _opened">	
+			<h3>색상</h3>
+			<span class="be_ck">(중복선택 가능)</span>
+			<ul class="color_ch">
+			<!-- [D]선택시 a class="on" 추가 -->
+			
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@32@bg_brown" title="갈색" class="N=a:dtl*p.color,i:32,r:1 _candidateOptions _color bg_brown " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">갈색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@16@bg_red" title="빨강색" class="N=a:dtl*p.color,i:16,r:2 _candidateOptions _color bg_red " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">빨강색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@64@bg_orange" title="주황색" class="N=a:dtl*p.color,i:64,r:3 _candidateOptions _color bg_orange " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">주황색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@128@bg_jyellow" title="진노란색" class="N=a:dtl*p.color,i:128,r:4 _candidateOptions _color bg_jyellow " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">진노란색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@256@bg_lyellow" title="연노란색" class="N=a:dtl*p.color,i:256,r:5 _candidateOptions _color bg_lyellow " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">연노란색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@1024@bg_lgreen" title="연두색" class="N=a:dtl*p.color,i:1024,r:6 _candidateOptions _color bg_lgreen " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">연두색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@2048@bg_green" title="초록색" class="N=a:dtl*p.color,i:2048,r:7 _candidateOptions _color bg_green " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">초록색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@512@bg_khaki" title="카키색" class="N=a:dtl*p.color,i:512,r:8 _candidateOptions _color bg_khaki " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">카키색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@4096@bg_cloud" title="하늘색" class="N=a:dtl*p.color,i:4096,r:9 _candidateOptions _color bg_cloud " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">하늘색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@8192@bg_blue" title="파랑색" class="N=a:dtl*p.color,i:8192,r:10 _candidateOptions _color bg_blue " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">파랑색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@16384@bg_navy" title="남색" class="N=a:dtl*p.color,i:16384,r:11 _candidateOptions _color bg_navy " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">남색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@131072@bg_purple" title="보라색" class="N=a:dtl*p.color,i:131072,r:12 _candidateOptions _color bg_purple " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">보라색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@65536@bg_wine" title="자주색" class="N=a:dtl*p.color,i:65536,r:13 _candidateOptions _color bg_wine " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">자주색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@32768@bg_pink" title="분홍색" class="N=a:dtl*p.color,i:32768,r:14 _candidateOptions _color bg_pink " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">분홍색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@8@bg_white" title="하얀색" class="N=a:dtl*p.color,i:8,r:15 _candidateOptions _color bg_white " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">하얀색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@4@bg_gray" title="회색" class="N=a:dtl*p.color,i:4,r:16 _candidateOptions _color bg_gray " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">회색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@2@bg_jgray" title="진회색" class="N=a:dtl*p.color,i:2,r:17 _candidateOptions _color bg_jgray " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">진회색</span>
+					</a>
+				</li>
+			
+				<li>
+					
+					
+						
+										
+					<a href="#" id="_color@1@bg_black" title="검정색" class="N=a:dtl*p.color,i:1,r:18 _candidateOptions _color bg_black " onclick="reloader.selectFilter(this); return false;">
+						<span class="u_vc">검정색</span>
+					</a>
+				</li>
+			
+			</ul>
+		</div>	
+		
+		<div class="detail_end _opened">
+			<button type="button" class="N=a:dtl*p.reset de_reset de_re_on _price" onclick="reloader.resetFilter(this);">초기화</button>
+			<button type="button" class="N=a:dtl*p.fold de_btn de_close _price" onclick="searchTab.toggleConent(this);"><span>닫기</span></button>
+		</div>		
+	</div>	
+		
+	
+	<div class="de_benefit _filterArea" id="_benefitFilterArea" style="display:none">
+		
+	
+		<div class="detail_end detail_end_v2 _closed _summary" style="display: none">
+			<span class="no_dsc"><span>상세검색으로 원하는 상품을 쉽게 찾을 수 있습니다.</span></span>
+			<ul class="_selectedOptions"></ul>
+			<button type="button" class="N=a:dtl*b.unfold de_btn de_open _benefit" onclick="searchTab.toggleConent(this);" ><span>열기</span></button>
+		</div>			
+	
+		<h3 class="_opened">혜택 <span class="be_ck">(중복선택 가능)</span></h3>
+		<div class="benefit_box _opened">
+			<ul>
+				<!-- [D]체크박스 선택시 input class="on" 추가 -->
+				<li>
+					<input type="checkbox" class="N=a:dtl*b.freeship _benefit _candidateOptions " id="free_deli"  name="free_deli" onclick="reloader.selectFilter(this)" value="true" title="무료배송">
+					<label for="free_deli">무료배송</label>
+				</li>
+				
+				<li>
+					<input type="checkbox" class="N=a:dtl*b.mileage _benefit _candidateOptions " id="ncash"  onclick="reloader.selectFilter(this)" name="ncash" value="true" title="마일리지">
+					<label for="ncash">마일리지</label>
+				</li>				
+				
+				<li>
+					<input type="checkbox" class="N=a:dtl*b.carddc _benefit _candidateOptions " id="card_discount"  onclick="reloader.selectFilter(this)" name="card_discount" value="true" title="카드할인">
+					<label for="card_discount">카드할인</label>
+				</li>
+				
+			</ul>
+		</div>
+		
+		
+		<h3 class="_opened">판매처</h3>
+		<div class="sell_box _opened">	
+			<ul id="_productSets">
+			<!-- [D]선택시 a class="on" 추가 -->
+			
+				
+				<li><a href="#" class="N=a:dtl*b.compare _candidateOptions _productSet " onclick="reloader.selectFilter(this); return false;" id="_productSet@model" title="가격비교"><span>가격비교<em>1</em></span></a></li>
+				
+			
+				
+				<li><a href="#" class="N=a:dtl*b.dephome _candidateOptions _productSet " onclick="reloader.selectFilter(this); return false;" id="_productSet@department" title="백화점/홈쇼핑"><span>백화점/홈쇼핑<em>5</em></span></a></li>
+				
+			
+				
+				<li><a href="#" class="N=a:dtl*b.checkout _candidateOptions _productSet " onclick="reloader.selectFilter(this); return false;" id="_productSet@checkout" title="체크아웃"><span>체크아웃<em>9</em></span></a></li>
+				
+			
+				
+				<li><a href="#" class="N=a:dtl*b.shopn _candidateOptions _productSet " onclick="reloader.selectFilter(this); return false;" id="_productSet@shopn" title="샵N"><span>샵N<em>8</em></span></a></li>
+				
+			
+			</ul>
+		</div>
+		
+		
+		<div class="detail_end _opened">
+			<button type="button" class="N=a:dtl*b.reset de_reset de_re_on _benefit" onclick="reloader.resetFilter(this);">초기화</button>
+			<button type="button" class="N=a:dtl*b.fold de_btn de_close _benefit" onclick="searchTab.toggleConent(this);"><span>닫기</span></button>
+		</div>				
+	</div>
+
+
+
+
+
+	
+	
+		
+	
+	
+		
+		<div class="sr_con_area" id="_searchResultContentArea">
+			<!-- 옵션 -->
+<div class="sr_opt_area">
+	<h2><span class="u_vc">지식쇼핑 검색결과</span><span id="_totalCount">34</span>건</h2>
+	<div class="opt_btn">
+		<div class="select_box">
+			<button type="button" class="N=a:osv.sort lst_type lst_ord" id="_sortTypeButton" onclick="reloader.toggleSortTypeLayer();">낮은 가격순<em>더보기</em></button>
+			<div class="lst_layer" style="display:none" id="_sortTypeDiv">
+					<ul class="lst_select">
+					<li class="N=a:osv.rank"><a href="#_searchResultContentArea" class="_sortType" onclick="reloader.selectFilter(this)" id="_sortType_rel">지식쇼핑 랭킹순</a></li>
+					<li class="N=a:osv.row on"><a href="#_searchResultContentArea" class="_sortType" onclick="reloader.selectFilter(this)" id="_sortType_price_asc">낮은 가격순</a></li>
+					<li class="N=a:osv.high"><a href="#_searchResultContentArea" class="_sortType" onclick="reloader.selectFilter(this)" id="_sortType_price_dsc">높은 가격순</a></li>
+					<li class="N=a:osv.date"><a href="#_searchResultContentArea" class="_sortType" onclick="reloader.selectFilter(this)" id="_sortType_date">등록일순</a></li>
+					<li class="N=a:osv.cmt"><a href="#_searchResultContentArea" class="_sortType" onclick="reloader.selectFilter(this)" id="_sortType_review">상품평 많은순</a></li>
+					</ul>
+				</div>
+			</div>
+		<div class="select_box">
+			<button type="button" class="N=a:osv.view lst_type lst_view" id="_viewTypeButton" onclick="reloader.toggleViewTypeLayer();">
+				<span class="type_ico lst" id="_viewTypeSpan">리스트 보기</span><em>더보기</em>
+			</button>
+			<div class="lst_layer" style="display:none" id="_viewTypeDiv">
+				<ul class="lst_select">
+					<li class="N=a:osv.list _viewType  on"><a href="#_searchResultContentArea" onclick="reloader.selectViewType(this);" id="_viewType_@sr_lst_area@lst@lst" title="리스트">리스트 보기<span class="type_ico lst"></span></a></li>
+					<li class="N=a:osv.simage _viewType "><a href="#_searchResultContentArea" onclick="reloader.selectViewType(this);" id="_viewType_@sr_lst_area2@smi@sim" title="작은이미지">작은이미지 보기<span class="type_ico smi"></span></a></li>
+					<li class="N=a:osv.bimage _viewType "><a href="#_searchResultContentArea" onclick="reloader.selectViewType(this);" id="_viewType_@sr_lst_area3@bgi@bim" title="큰이미지">큰이미지 보기<span class="type_ico bgi"></span></a></li>
+					</ul>
+			</div>
+			</div>	
+	</div>
+</div>
+<!-- //옵션 -->
+	
+<!-- 리스트뷰 div class="sr_lst_area" -->
+<div class="sr_lst_area" id="_resultItemArea">
+	<ul id="_resultItems">
+		<li class="sr_lst" id="_sr_lst_6725630529">
+		<div class="sr_a_bx">
+					<a href="http://cr2.shopping.naver.com/adcr.nhn?x=jx3kFenQkZGD%2BfJCVvx2lf%2F%2F%2Fw%3D%3Ds4gtsnh0%2BMpcbkJdz7bYqb%2BeV%2FhJUUh9oejAoUD8Zyg6jkUCJsjWn29Upso6cvMMqte5Wr%2FA7uRRvvHxdYfeuh8nSmaBO35VqqJY%2B7fApmILQo6nCZynwvqIEoQMU8orxDwxi2vW6kzFB%2FtOiQKcVhFGtogHMLnQG9qLvRCzcWEg9Eo%2BN6A4pKWEYNzBWDoZNx0Lv9sZKdkBdMPbQGI1yBilN6c048nVtBCWmTEfSJQjQnct2oBBrFpgua8HgTAGrRuQn6CwsUfzKp00UhjYzrKZyQH4Irm4lchVUufhCktPse3ZpVff8%2FFffqpEoAVADYeHco62wkLNyQLqgWQV9hU0XdRCpDmfQ2cz8IwzENhjAtQJj9%2BQQvJ8w4zlIGLpwXcw%2FvUxjNTViirB4EFtbzi8bbkxVRAX1atTgycIkJwiv%2Fkm9lRT1ojZ74tZQGoPeWWiEUlClMlTfE2eITeMvuANYBXvqmYrNIzIlcmweJJi83AU241vtyFR8wWxnMBLwJ9jUZmzh6Xs0ezJzGF8X7yNIHfjgIBnrjjYRPpCgAI%2FV1wGIbcMATcUPPWx05FXkb3%2FnNqr20Pqwu0v45SbLTJIshEfZtrhxwYmQs6g9ktyXp1s4AJJSBB9NeJ7R%2BIxItV4NUUHtCJ%2BOzabiTl6q0w%3D%3D&nv_mid=6725630529&cat_id=40016308" onclick="clickcr(this, reloader.nclickPrefix + '*N.item', '6725630529', '1', event);">
+					<div class="thmb">
+						<img src="http://shopping.phinf.naver.net/main_6725630/6725630529.jpg?type=f170" width="85" height="85" alt="[스페리 탑사이더 초특가 SALE] 데저트 부츠 Boat Oxford Boot 다크탄 0297432 SPERRY 보트슈즈 로퍼">
+						</div>
+					<div class="thmb2"><img src="http://shopping.phinf.naver.net/main_6725630/6725630529.jpg?type=f170" width="261" height="261" alt="[스페리 탑사이더 초특가 SALE] 데저트 부츠 Boat Oxford Boot 다크탄 0297432 SPERRY 보트슈즈 로퍼"></div>
+					<div class="thmb3"><img src="http://shopping.phinf.naver.net/main_6725630/6725630529.jpg?type=f170" alt="[스페리 탑사이더 초특가 SALE] 데저트 부츠 Boat Oxford Boot 다크탄 0297432 SPERRY 보트슈즈 로퍼"></div>
+					
+					
+					<dl class="info">
+					<dt class="tit">[스페리 탑사이더 초특가 SALE] 데저트 부츠 Boat Oxford Boot 다크탄 0297432 SPERRY 보트슈즈 로퍼</dt>
+					<dd class="price">
+						<em>96,260</em><span>원</span>
+								<span class="stat">무료배송</span>
+						</dd>
+					<dd class="shop">
+<span class="m_name">11번가</span>
+						</dd>
+					</dl>
+					</a>
+					<a href="#" class="sr_more" onclick="searchProduct.getProductDetail(shop.Base64.decode('c3BlcnJ5IDAyOTc0MzI='), '6725630529', '9132778693216194498009240896', 'true', this, '6725630529', '1', shop.Base64.decode('W+yKpO2OmOumrCDtg5HsgqzsnbTrjZQg7LSI7Yq56rCAIFNBTEVdIOuNsOyggO2KuCDrtoDsuKAgQm9hdCBPeGZvcmQgQm9vdCDri6Ttgaztg4QgMDI5NzQzMiBTUEVSUlkg67O07Yq47IqI7KaIIOuhnO2NvA==')); return false;">상세</a>
+						<a href="#" class="sr_zzim" onclick="shop.popup.Ariser.scrapProduct('6725630529'); clickcr(this, reloader.nclickPrefix + '*N.fav', '6725630529', '1', event); return false;">찜하기</a>	
+				</div>
+				
+				<div class="dinfo_area" style="display:none">			
+					<strong>상품정보</strong>
+					<div class="dinfo_lst">
+						<p>
+							등록일							
+							<em>2013.01</em>							
+							</p>
+						<p>						
+							
+								무료배송 								
+								<span class="bar">|</span>
+								쿠폰								
+								</p>
+						</div>	
+					<div class="sns_area" style="display:none" id="_sns_area_6725630529">						
+					</div>
+					
+					<div class="_dinfo_simi_span"></div>
+				</div>				
+				
+			</li>
+	
+	<li class="sr_lst" id="_sr_lst_7236084708">
+		<div class="sr_a_bx" >
+					<a href="/detail/detail.nhn?ac=PGSR01&cat_id=40016308&nv_mid=7236084708&query=sperry+0297432&hideSearch=" onclick="clickcr(this, reloader.nclickPrefix + '*C.item', '7236084708', '2', event);">
+					<div class="thmb"><img src="http://shopping.phinf.naver.net/main_7236084/7236084708.20131030170226.jpg?type=f170" width="85" height="85" alt="Sperry Top-Sider 0297432"></div>
+					<div class="thmb2"><img src="http://shopping.phinf.naver.net/main_7236084/7236084708.20131030170226.jpg?type=f170" width="261" height="261" alt="Sperry Top-Sider 0297432"></div>
+					<div class="thmb3"><img src="http://shopping.phinf.naver.net/main_7236084/7236084708.20131030170226.jpg?type=f170" alt="Sperry Top-Sider 0297432"></div>
+					<dl class="info">
+					<dt class="tit">Sperry Top-Sider 0297432</dt>
+					<dd class="price">
+						<em>96,260</em>원
+								<span class="sm_gray">최저</span>
+							</dd>
+					<dd class="compare_bx">
+						<span class="sr_compare">가격비교 <em class="num">35</em></span>
+					</dd>
+					</dl>
+					</a>
+					<!--[D] 상세 click 시 a class에 on_more 클래스 추가 -->
+					<a href="#" class="sr_more" onclick="searchProduct.getModelDetail('7236084708', this, '7236084708', '2'); return false;">상세</a>
+					<a href="#" class="sr_zzim" onclick="shop.popup.Ariser.scrapProduct('7236084708'); clickcr(this, reloader.nclickPrefix + '*C.fav', '7236084708', '2', event); return false;">찜하기</a>	
+				</div>
+				
+				<div class="dinfo_area" style="display:none">			
+					<strong>상품정보</strong>
+					
+					<div class="dinfo_lst">
+						<p>
+							등록일							
+							<em>2013.10</em>							
+							<span class="bar">|</span>
+								상품평 (<em>29</em>)
+							</p>
+						
+						
+						<p class="no_pad">
+							브라운, 가죽+고무, 부츠</p>						
+						</div>
+					
+					</div>				
+				
+			</li>
+	
+	<li class="sr_lst" id="_sr_lst_6912006945">
+		<div class="sr_a_bx">
+					<a href="http://cr2.shopping.naver.com/adcr.nhn?x=5ZHjOufzM7Nl%2FwfgpnKg5%2F%2F%2F%2Fw%3D%3DstIiQKIDZehO3a%2F2mS2TYyYkdTg9Qt93z6I%2BuMZQHZWGjkUCJsjWn29Upso6cvMMqcuf1vSyD1Rq%2BKdmoKOaUGdf0kR4a8TE0L%2BPcyLucDC3Qo6nCZynwvqIEoQMU8orxDwxi2vW6kzFB%2FtOiQKcVhFGtogHMLnQG9qLvRCzcWEhvcyDBm5Vp6fcIHaX4CyjxUih%2BtoGnVAIJKt9Gyv19shcmUKCsAEQYNOc85%2BFMePAwO3NrZPKBc9WY7PBOyPVH5lM%2FZtB2Yb1bwXtg%2F9RKNSNnY%2FWV72jHo1UH%2BNU%2FVJP3qMMBHO6Nb9vTVzqHEF%2FA3nuEobNg9m50i2dW58jJDK1ibFTutMODgc7qwqebbQlQiUVEarUa0mM5fg3hKK0v9qXvnO4W24AYPsPQdIvZ5aayIyQXmFQixnwagleO0jcd3yATD2XOX5EoU%2FgBS2e06QxM8XkPHfIPc0Uf8T7G6w2RY0xLIkXkMTRqmXQNmfJnA628KK6AeTzW1uuPjTmS4d0cSsXUrcvdyX5HjLMublerFX6YlQkbevoxv8rAif%2FK42cxIgumHFFBG%2B59fWr%2B7qGlK%2BM8PoGyrITqpH0ANM10cgRy840a017eF9rSBWa7gqFGy7zcrSwZlmbw5vjx9nKH0Xi3R2Lm%2Bx6oujw38sDEbxZCvv63u1d2myJ%2FMxr4wxtzD9UE1bXKNUWZCONhB9e8h7cJ1WGeHT%2FZQNZ0FCi6P5yKLpk2Fk2PL3VwE93qWHW5wL%2BDPKevmkL1l%2FhVv35mLtNXgsJ1NJokN3ilQA%3D%3D&nv_mid=6912006945&cat_id=40016308" onclick="clickcr(this, reloader.nclickPrefix + '*N.item', '6912006945', '3', event);">
+					<div class="thmb">
+						<img src="http://shopping.phinf.naver.net/main_6912006/6912006945.jpg?type=f170" width="85" height="85" alt="[스페리 탑시더][스페리 탑사이더 초특가 SALE] 데저트 부츠 Boat Oxford Boot 다크탄 0297432 SPERRY 보트슈즈 로퍼">
+						</div>
+					<div class="thmb2"><img src="http://shopping.phinf.naver.net/main_6912006/6912006945.jpg?type=f170" width="261" height="261" alt="[스페리 탑시더][스페리 탑사이더 초특가 SALE] 데저트 부츠 Boat Oxford Boot 다크탄 0297432 SPERRY 보트슈즈 로퍼"></div>
+					<div class="thmb3"><img src="http://shopping.phinf.naver.net/main_6912006/6912006945.jpg?type=f170" alt="[스페리 탑시더][스페리 탑사이더 초특가 SALE] 데저트 부츠 Boat Oxford Boot 다크탄 0297432 SPERRY 보트슈즈 로퍼"></div>
+					
+					
+					<dl class="info">
+					<dt class="tit">[스페리 탑시더][스페리 탑사이더 초특가 SALE] 데저트 부츠 Boat Oxford Boot 다크탄 0297432 SPERRY 보트슈즈 로퍼</dt>
+					<dd class="price">
+						<em>96,740</em><span>원</span>
+								<span class="stat">무료배송</span>
+						</dd>
+					<dd class="shop">
+<span class="m_name">디앤샵</span>
+						</dd>
+					</dl>
+					</a>
+					<a href="#" class="sr_more" onclick="searchProduct.getProductDetail(shop.Base64.decode('c3BlcnJ5IDAyOTc0MzI='), '6912006945', '9772889742353884955902214929', 'true', this, '6912006945', '3', shop.Base64.decode('W+yKpO2OmOumrCDtg5Hsi5zrjZRdW+yKpO2OmOumrCDtg5HsgqzsnbTrjZQg7LSI7Yq56rCAIFNBTEVdIOuNsOyggO2KuCDrtoDsuKAgQm9hdCBPeGZvcmQgQm9vdCDri6Ttgaztg4QgMDI5NzQzMiBTUEVSUlkg67O07Yq47IqI7KaIIOuhnO2NvA==')); return false;">상세</a>
+						<a href="#" class="sr_zzim" onclick="shop.popup.Ariser.scrapProduct('6912006945'); clickcr(this, reloader.nclickPrefix + '*N.fav', '6912006945', '3', event); return false;">찜하기</a>	
+				</div>
+				
+				<div class="dinfo_area" style="display:none">			
+					<strong>상품정보</strong>
+					<div class="dinfo_lst">
+						<p>
+							등록일							
+							<em>2013.05</em>							
+							</p>
+						<p>						
+							
+								무료배송 								
+								<span class="bar">|</span>
+								카드할인								
+								<span class="bar">|</span>
+								쿠폰								
+								</p>
+						</div>	
+					<div class="sns_area" style="display:none" id="_sns_area_6912006945">						
+					</div>
+					
+					<div class="_dinfo_simi_span"></div>
+				</div>				
+				
+			</li>
+	
+	<li class="sr_lst" id="_sr_lst_7506491711">
+		<div class="sr_a_bx">
+					<a href="http://cr2.shopping.naver.com/adcr.nhn?x=3kd5BrBS2uDyNDh2lpelXf%2F%2F%2Fw%3D%3DsrM8tim2ClTNEf4yGPNEqmjDp9ROHxUKS8lI6Af39yatzD2HzwnSdEIMlUGJP5DPESnf91UTUup8yODUrt4Iy6yA5iGM%2BqOFWMqVgLXzGsf87KDBWTr8i6k5Qa%2FSkMCrRJ%2FJErZLuVSrhkyYpXYJjYrxY8rl1dbRt4HvOpfI6Ydv37ia7ax8IKLVXlZ6Q8Gr8y4h2vbcqqfeoxFxyQn23R83pyt7kt7mixLR4T506wJG%2BdI%2BEC1ywLhhQeeQeoyNaj3q%2FxpfBBmztx7MhwdTnbAbvMxVCYJ5H9%2FYoSjSyJ1qiXHmXmqG6JBGEaMk%2F67eaCREHbZ7A3%2F4Z%2BFvocrkZ5jwSCfNcbcyJiM87j8Bq22DS87JU0mSkLkU8qFO0B%2FdxB6ZCFjq5TR9QSi3MwQ5qB2ZcMSu81%2FMJ%2FBr6R67kNoqueZs8oFGr%2B6mVR4yL%2BOOOOqLcKDPMdtOAjp1IuN1uz9c0f5ARtloS%2FdtSfOqGcHZmxS2Pr4YgeEea69WAnQU7t3DspKHLZckLZvOZ46H9umy%2FhXrQ6Q%2BSQfWRS0ByL1hrvg2vVvs8ilHm5kPRaP3TIQA1VgrdV7X1UEoU8hjY12CcQ2nmVRVnKbmaxZM0Ea1K%2B%2BMPE3fUtxM9T661qy%2B%2B7x6Z5X7lVv%2Fq25sBCFJFTBKD7aUewZ%2BOIHZCU4hyyzz7AlFoxOLUbkBfuQ6rgLEqY2seBrVNmOMh6DweK6DFCQIEdDW%2Bc5HMk%2FgJmh8SA7fc7Sb2VTS6UYecs5APZULQfq8AV%2Bm2gKGDs6gcfEUVWQ%3D%3D&nv_mid=7506491711&cat_id=40016308" onclick="clickcr(this, reloader.nclickPrefix + '*N.item', '7506491711', '4', event);">
+					<div class="thmb">
+						<img src="http://shopping.phinf.naver.net/main_7506491/7506491711.jpg?type=f170" width="85" height="85" alt="[스페리 탑사이더 초특가 SALE] 데저트 부츠 Boat Oxford Boot 다크탄 0297432 SPERRY 보트슈즈 로퍼">
+						</div>
+					<div class="thmb2"><img src="http://shopping.phinf.naver.net/main_7506491/7506491711.jpg?type=f170" width="261" height="261" alt="[스페리 탑사이더 초특가 SALE] 데저트 부츠 Boat Oxford Boot 다크탄 0297432 SPERRY 보트슈즈 로퍼"></div>
+					<div class="thmb3"><img src="http://shopping.phinf.naver.net/main_7506491/7506491711.jpg?type=f170" alt="[스페리 탑사이더 초특가 SALE] 데저트 부츠 Boat Oxford Boot 다크탄 0297432 SPERRY 보트슈즈 로퍼"></div>
+					
+					
+					<dl class="info">
+					<dt class="tit">[스페리 탑사이더 초특가 SALE] 데저트 부츠 Boat Oxford Boot 다크탄 0297432 SPERRY 보트슈즈 로퍼</dt>
+					<dd class="price">
+						<em>98,550</em><span>원</span>
+								<span class="stat">무료배송</span>
+						</dd>
+					<dd class="shop">
+<span class="m_name">홈플러스</span>
+						</dd>
+					</dl>
+					</a>
+					<a href="#" class="sr_more" onclick="searchProduct.getProductDetail(shop.Base64.decode('c3BlcnJ5IDAyOTc0MzI='), '7506491711', '9772889742353884955902214929', 'true', this, '7506491711', '4', shop.Base64.decode('W+yKpO2OmOumrCDtg5HsgqzsnbTrjZQg7LSI7Yq56rCAIFNBTEVdIOuNsOyggO2KuCDrtoDsuKAgQm9hdCBPeGZvcmQgQm9vdCDri6Ttgaztg4QgMDI5NzQzMiBTUEVSUlkg67O07Yq47IqI7KaIIOuhnO2NvA==')); return false;">상세</a>
+						<a href="#" class="sr_zzim" onclick="shop.popup.Ariser.scrapProduct('7506491711'); clickcr(this, reloader.nclickPrefix + '*N.fav', '7506491711', '4', event); return false;">찜하기</a>	
+				</div>
+				
+				<div class="dinfo_area" style="display:none">			
+					<strong>상품정보</strong>
+					<div class="dinfo_lst">
+						<p>
+							등록일							
+							<em>2014.02</em>							
+							</p>
+						<p>						
+							
+								무료배송 								
+								<span class="bar">|</span>
+								카드할인								
+								</p>
+						</div>	
+					<div class="sns_area" style="display:none" id="_sns_area_7506491711">						
+					</div>
+					
+					<div class="_dinfo_simi_span"></div>
+				</div>				
+				
+			</li>
+	
+	<li class="sr_lst" id="_sr_lst_7504949906">
+		<div class="sr_a_bx">
+					<a href="http://cr2.shopping.naver.com/adcr.nhn?x=J6uP46z2nelWBqYm%2Bh7uHP%2F%2F%2Fw%3D%3Ds1OpBcnYUdru6ezUGUiHLl%2F1lmCRkmiaYaTMk7G5Fgm5zD2HzwnSdEIMlUGJP5DPEvgECGuPiXTw3B2Y4c21flIJwZ6SZLUoNNOUwDPmDsjldIWlq7Hjnrh6nn1T3PofGr1v%2Bl87vSqKIiBPkjyhdrqgJ3haBvQiLpnKXuIXUBwdwp5kYcCIbqp8lLBGEA93eXXOixWX4o5%2F87pELwpdJVOy96ArMazsPCFgDabVVOMZCs4OB3ayT6Zed2eBC9nJZwz%2BGBKlpbC07QG0oudH2Cy4JFrF3yFr88J%2FPn2yDBZcxT3UaKKzwF4mXAao6q856k0GVU1pZUdYMWO5z%2FsYYcc5lZxwzv502QlPPQra8C%2FNRueUEu6RQFFKnl2MW73IF2scaxOAo%2FmDhG7a%2F%2BeEP4GlJpMNfzR6FqzQpEa7L%2Fo51Vb1XzKmjD6Idarsaoct0Wnf0s6vquEwB%2BkNI6NQh1YtPO%2Fi4ubpWpYpjk%2BNNMBleem8T0AeKGQJtCqEIdT%2FyCe2sBnSfAzUlguu6j1VGPOLS%2F14I9LNhTW3CIFO9c%2B0tO9F98P2rBOQDvZQgcLPCnuS006VLV2UlelaVhR8FhktzmlxBdoT%2Bwva2qW3ObURry6pwTvVSCYXfuSjiVbI9BJJs2O0v00G4tl4im7dssWf3aAlsHhyUEuiDvUJMTveBxT7jLKbjnKVmf1XGokt6o5oDDVGkVGXjNba%2BpO%2F0bu5N2hffEDcGZdynUtgLwCiJvI7TRu9TAFzgRAcuhG6QoXMStAXvA%2F61S0Etx79fcg%3D%3D&nv_mid=7504949906&cat_id=40005598" onclick="clickcr(this, reloader.nclickPrefix + '*N.item', '7504949906', '5', event);">
+					<div class="thmb">
+						<img src="http://shopping.phinf.naver.net/main_7504949/7504949906.jpg?type=f170" width="85" height="85" alt="[스페리 탑시더][EVENT! 스페리 탑사이더] 데저트 부츠 Boat Oxford Desert Boot 다크탄 0297432 [SPERRY 보트화]">
+						</div>
+					<div class="thmb2"><img src="http://shopping.phinf.naver.net/main_7504949/7504949906.jpg?type=f170" width="261" height="261" alt="[스페리 탑시더][EVENT! 스페리 탑사이더] 데저트 부츠 Boat Oxford Desert Boot 다크탄 0297432 [SPERRY 보트화]"></div>
+					<div class="thmb3"><img src="http://shopping.phinf.naver.net/main_7504949/7504949906.jpg?type=f170" alt="[스페리 탑시더][EVENT! 스페리 탑사이더] 데저트 부츠 Boat Oxford Desert Boot 다크탄 0297432 [SPERRY 보트화]"></div>
+					
+					
+					<dl class="info">
+					<dt class="tit">[스페리 탑시더][EVENT! 스페리 탑사이더] 데저트 부츠 Boat Oxford Desert Boot 다크탄 0297432 [SPERRY 보트화]</dt>
+					<dd class="price">
+						<em>98,680</em><span>원</span>
+								<span class="stat">무료배송</span>
+						</dd>
+					<dd class="shop">
+<span class="m_name">디앤샵</span>
+						</dd>
+					</dl>
+					</a>
+					<a href="#" class="sr_more" onclick="searchProduct.getProductDetail(shop.Base64.decode('c3BlcnJ5IDAyOTc0MzI='), '7504949906', '8766881671083888683280016192', 'true', this, '7504949906', '5', shop.Base64.decode('W+yKpO2OmOumrCDtg5Hsi5zrjZRdW0VWRU5UISDsiqTtjpjrpqwg7YOR7IKs7J20642UXSDrjbDsoIDtirgg67aA7LigIEJvYXQgT3hmb3JkIERlc2VydCBCb290IOuLpO2BrO2DhCAwMjk3NDMyIFtTUEVSUlkg67O07Yq47ZmUXQ==')); return false;">상세</a>
+						<a href="#" class="sr_zzim" onclick="shop.popup.Ariser.scrapProduct('7504949906'); clickcr(this, reloader.nclickPrefix + '*N.fav', '7504949906', '5', event); return false;">찜하기</a>	
+				</div>
+				
+				<div class="dinfo_area" style="display:none">			
+					<strong>상품정보</strong>
+					<div class="dinfo_lst">
+						<p>
+							등록일							
+							<em>2014.02</em>							
+							</p>
+						<p>						
+							
+								무료배송 								
+								<span class="bar">|</span>
+								카드할인								
+								<span class="bar">|</span>
+								쿠폰								
+								</p>
+						</div>	
+					<div class="sns_area" style="display:none" id="_sns_area_7504949906">						
+					</div>
+					
+					<div class="_dinfo_simi_span"></div>
+				</div>				
+				
+			</li>
+	
+	</ul>
+</div>	
+<!-- //리스트뷰 -->
+
+<div class="sr_pg2">
+			<span class="sr_pg2_btn uc_vh"><span class="sr_pg2_prev">이전</span></span>
+			<em class="sr_pg2_pg">1-5<span class="sr_pg2_total"> / 34</span></em>
+			
+			<a href="#_searchResultContentArea" class="sr_pg2_btn" onclick="reloader.next(); clickcr(this, reloader.nclickPrefix + '.next', '', '', event);"><span class="sr_pg2_next">다음</span></a>
+			</div>
+	
+		</div>
+
+		
+		
+
+		
+		
+				
+		
+				
+	
+	
+
+
+
+
+
+
+
+
+<div class="law_notice">
+	<dl>
+		<dt>
+			<!-- 펼친상태 a class="on" 추가 -->
+			<a href="#" class="" onclick="toggleLegalNotice(this); return false;">
+				<strong>법적고지</strong>
+				<span class="law_op" id="legal_title">
+					펼쳐보기	<span class="hm"></span>
+				</span>
+			</a>
+		</dt>
+		<dd >
+			<p>네이버 지식쇼핑에서 제공하는 상품정보는 각 쇼핑몰에서 제공받은 정보입니다.</p>
+            <p class="lawnotice_detail" style="display:none" id="_law_notice">
+				최종 상품정보는 구매 전, 쇼핑몰에서 반드시 확인해 주시기 바랍니다.<br>
+				상품의 주문, 환불, 배송의 의무와 책임은 구매 하신 쇼핑몰에 있습니다.<br>
+				반드시 해당 쇼핑몰의 매매보호 서비스 통해 상품을 구매해 주시기 바랍니다.
+			</p>			
+		</dd>
+	</dl>
+</div>
+
+
+
+
+</div>
+		<hr />
+		<div class="u_ft">
+		<div class="u_ftsw ">
+				<a id="_gotoct_bottom" href="#_gotoct_top" class="N=a:fot.top u_ftst">맨위로</a>
+				</div>
+		<footer id="_footer_content" role="contentinfo">
+			<aside>
+				<div class="u_gnbw">
+					<div id="u_gnbuw2" class="u_gnbuw" style="display:none">
+						<h2 class="u_vc">전체서비스</h2>
+						<a href="#u_ftlkw" class="u_vc">전체서비스 건너뛰기</a>
+						<div class="u_gnbu_w">
+							<ul class="u_gnbu u_gnbuf">
+		<li class="u_gnb"><a href="http://m.naver.com" class="N=a:stm.main u_gnba">네이버홈</a></li>
+		<li class="u_gnb"><a href="http://m.me.naver.com" class="N=a:stm.naverme u_gnba">네이버me</a></li>
+		<li class="u_gnb"><a href="http://m.sports.naver.com/" class="N=a:stm.sports u_gnba">스포츠</a></li>
+		<li class="u_gnb"><a href="http://m.news.naver.com" class="N=a:stm.news u_gnba">뉴스</a></li>
+		<li class="u_gnb"><a href="http://m.weather.naver.com" class="N=a:stm.weather u_gnba">날씨</a></li>
+		<li class="u_gnb"><a href="http://m.cafe.naver.com" class="N=a:stm.cafe u_gnba">카페</a></li>
+		<li class="u_gnb"><a href="http://m.mail.naver.com" class="N=a:stm.mail u_gnba">메일</a></li>
+		<li class="u_gnb"><a href="http://m.note.naver.com" class="N=a:stm.note u_gnba">쪽지</a></li>
+		<li class="u_gnb"><a href="http://m.kin.naver.com" class="N=a:stm.kin u_gnba">지식iN</a></li>
+		<li class="u_gnb"><a href="http://m.blog.naver.com" class="N=a:stm.blog u_gnba">블로그</a></li>
+		<li class="u_gnb"><a href="http://m.me2day.net" class="N=a:stm.me2day u_gnba">미투데이</a></li>
+		<li class="u_gnb"><a href="http://m.me.naver.com/mobile/main.nhn?vTabCode=V0001" class="N=a:stm.newcommcast u_gnba">알림</a></li>
+		<li class="u_gnb"><a href="http://m.bboom.naver.com" class="N=a:stm.bboom u_gnba">네이버뿜</a></li>
+		</ul>
+	<ul class="u_gnbu">
+		<li class="u_gnb"><a href="http://m.stock.naver.com/" class="N=a:stm.stock u_gnba">증권</a></li>
+		<li class="u_gnb"><a href="http://m.land.naver.com/" class="N=a:stm.land u_gnba">부동산</a></li>
+		<li class="u_gnb"><a href="http://m.tvguide.naver.com" class="N=a:stm.broadcast u_gnba">TV편성표</a></li>
+		<li class="u_gnb"><a href="http://m.movie.naver.com/m/category/movie/CurrentMovie.nhn" class="N=a:stm.movie u_gnba">영화/예매</a></li>
+		<li class="u_gnb"><a href="http://m.music.naver.com" class="N=a:stm.music u_gnba">뮤직</a></li>
+		<li class="u_gnb"><a href="http://m.comic.naver.com/" class="N=a:stm.comic u_gnba">웹툰</a></li>
+		<li class="u_gnb u_gnb_v1"><a href="http://m.navercast.naver.com" class="N=a:stm.navercast u_gnba">네이버캐스트</a></li>
+		<li class="u_gnb"><a href="http://m.terms.naver.com" class="N=a:stm.terms u_gnba">지식사전</a></li>
+		<li class="u_gnb"><a href="http://m.book.naver.com/bestsell/list.nhn" class="N=a:stm.book u_gnba">책</a></li>
+		<li class="u_gnb"><a href="http://m.tvtalk.naver.com" class="N=a:stm.tvtalk u_gnba">TV톡</a></li>
+		<li class="u_gnb u_gnb_v1"><a href="http://m.wingspoon.com" class="N=a:stm.wingbus u_gnba">윙스푼 맛집</a></li>
+		<li class="u_gnb"><a href="http://m.kitchen.naver.com" class="N=a:stm.kitchen u_gnba">레시피</a></li>
+		<li class="u_gnb"><a href="http://m.auto.naver.com" class="N=a:stm.auto u_gnba">자동차</a></li>
+		<li class="u_gnb"><a href="http://m.dic.naver.com" class="N=a:stm.dic u_gnba">사전</a></li>
+		<li class="u_gnb"><a href="http://m.krdic.naver.com" class="N=a:stm.korean u_gnba">국어사전</a></li>
+		<li class="u_gnb"><a href="http://m.endic.naver.com/" class="N=a:stm.endic u_gnba">영어사전</a></li>
+		<li class="u_gnb"><a href="http://m.jpdic.naver.com/" class="N=a:stm.jpdic u_gnba">일본어사전</a></li>
+		<li class="u_gnb"><a href="http://m.hanja.naver.com" class="N=a:stm.hanja u_gnba">한자사전</a></li>
+		<li class="u_gnb"><a href="http://m.cndic.naver.com" class="N=a:stm.chinese u_gnba">중국어사전</a></li>
+		<li class="u_gnb u_gnb_v1"><a href="http://m.spdic.naver.com" class="N=a:stm.spdic u_gnba">스페인어사전</a></li>
+		<li class="u_gnb"><a href="http://m.health.naver.com" class="N=a:stm.health u_gnba">건강</a></li>
+		<li class="u_gnb u_gnb_v1"><a href="http://m.wingbus.naver.com" class="N=a:stm.wingbus u_gnba">여행 윙버스&nbsp;<span class="u_gnbn">New</span></a></li>
+		<li class="u_gnb"><a href="http://m.navercast.naver.com/magazine_home.nhn" class="N=a:stm.magazine u_gnba">매거진&nbsp;<span class="u_gnbn">New</span></a></li>
+		<li class="u_gnb"><a href="http://m.map.naver.com/traffic.nhn" class="N=a:stm.traffic u_gnba">교통상황&nbsp;<span class="u_gnbn">New</span></a></li>
+		<li class="u_gnb"><a href="http://m.map.naver.com/route.nhn" class="N=a:stm.route u_gnba">길찾기&nbsp;<span class="u_gnbn">New</span></a></li>
+		<li class="u_gnb"><a href="http://m.map.naver.com/bus/index.nhn" class="N=a:stm.bus u_gnba">버스&nbsp;<span class="u_gnbn">New</span></a></li>
+		<li class="u_gnb"><a href="http://m.tvcast.naver.com" class="N=a:stm.tvcast u_gnba">TV캐스트&nbsp;<span class="u_gnbn">New</span></a></li>
+		</ul>
+	<ul class="u_gnbu">
+		<li class="u_gnb"><a href="http://m.map.naver.com" class="N=a:stm.map u_gnba">지도</a></li>
+		<li class="u_gnb"><a href="http://m.calendar.naver.com" class="N=a:stm.calendar u_gnba">캘린더</a></li>
+		<li class="u_gnb"><a href="http://m.contact.naver.com" class="N=a:stm.contact u_gnba">주소록</a></li>
+		<li class="u_gnb"><a href="http://m.ndrive.naver.com" class="N=a:stm.ndrive u_gnba">N드라이브</a></li>
+		<li class="u_gnb"><a href="http://m.photo.ndrive.naver.com" class="N=a:stm.nphoto u_gnba">포토앨범</a></li>
+		<li class="u_gnb"><a href="http://moneybook.naver.com/m/smry.nhn" class="N=a:stm.moneybook u_gnba">가계부</a></li>
+		<li class="u_gnb"><a href="http://m.me.naver.com/mobile/main.nhn?vMode=m&referrer=main" class="N=a:stm.memo u_gnba">메모</a></li>
+		</ul>
+	<ul class="u_gnbu">
+		<li class="u_gnb"><a href="http://m.shopping.naver.com" class="N=a:stm.shopping u_gnba">지식쇼핑</a></li>
+		<li class="u_gnb u_gnb_v1"><a href="http://m.smart.hangame.com/" class="N=a:stm.hangame u_gnba">스마트 한게임</a></li>
+		</ul>
+</div>
+					</div>
+				</div>
+			</aside>
+			<p id="u_ftlkw" class="u_ftlkw">
+				<a id="_login" href="https://nid.naver.com/nidlogin.login?svctype=262144&url=http%3A%2F%2Fm.shopping.naver.com%2Fsearch%2Fall_search.nhn%3Fsort%3Dprice_asc%26query%3Dsperry%2B0297432%26pagingIndex%3D1%26pagingSize%3D5" class="N=a:fot.login u_ftlk">로그인</a>
+					<a id="_pcversionurl" href="http://shopping.naver.com/search/all_search.nhn?sort=price_asc&query=sperry+0297432&pagingIndex=1&pagingSize=5" class="N=a:fot.gopc u_ftlk">PC버전</a>
+				<a id="_footer_service" href="http://m.naver.com/services.html?f=svc.shopping" class="N=a:fot.sitemap u_ftlkbt">전체서비스</a>
+			</p>
+			<div class="u_if">
+				<dl>
+					<dt>상호</dt>
+					<dd class="u_ifc">네이버 비즈니스 플랫폼(주)<span>대표이사: 최휘영</span></dd>
+					<dt>주소</dt>
+					<dd class="u_ifc">경기도 성남시 분당구 불정로 <em class="ls0">6</em> <br>네이버 그린팩토리 <em class="ls0">463-867</em></dd>
+					<dt>전화</dt>
+					<dd>1588<span>-</span>3819 (대표전화/고객센터)</dd>
+					<dt>이메일</dt>
+					<dd>helpcustomer@naver.com</dd>
+					<dt class="u_ift">사업자등록번호</dt>
+					<dd>129-<span>86</span>-31394</dd>
+					<dt class="u_ift">통신판매업신고번호</dt>
+					<dd>제2009-경기성남-0510호</dd>
+				</dl>
+			</div>
+			<p class="u_cr">
+				<span class="u_cri"><a href="http://www.ftc.go.kr/info/bizinfo/communicationList.jsp" target="_blank">사업자정보 확인</a></span>
+				<span class="u_cri"><a href="http://m.shopping.naver.com/guide/join_agreement.nhn">이용약관</a></span>
+				<br>
+				<span class="u_cri">&copy; <a href="http://www.nbp-corp.com/" class="N=a:fot.nbp u_cra u_cra_v1">NAVER BUSINESS PLATFORM Corp.</a></span> 
+			</p>
+			
+			
+<div class="u_sca">
+					<a href="#" id="make_shortcut_btn" class="u_sc _click[makeShortCut('intent://addshortcut?url=http%3A%2F%2Fm.shopping.naver.com%2F?frm=direct&icon=http%3A%2F%2Fstatic.shopping.naver.net%2Fm3%2Fim%2Fshortcut_ico_v3.png&title=네이버%20지식쇼핑&serviceCode=shopping&version=7#Intent;scheme=naversearchapp;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=com.nhn.android.search;end'); return false;]">
+							<span class="u_ics"></span><em>네이버앱의</em><strong>지식쇼핑</strong> 홈화면에 바로가기 추가 <span class="u_ica"></span>
+						</a>
+					</div>
+			</footer>
+	</div>
+<script type="text/javascript">var __phase__ = "REAL";</script>
+<script type="text/javascript" src="http://static.shopping.naver.net/m3/js/_lib_v40.js"></script>
+<script type="text/javascript" src="http://static.shopping.naver.net/m3/js/_search2_v8.js"></script>
+<script type="text/javascript" src="http://spi.naver.net/js/release/socialplugin_news_m_v1.js"></script>
+<script type="text/javascript">
+	//document.domain = "naver.com";
+	g_ssc="m.shopping.all";nclk_evt=3;g_query=shop.Base64.decode("c3BlcnJ5IDAyOTc0MzI=");nclk_do();lcs_do();
+
+	BMR.run();
+	
+	var wrapAreaEventDelegator = new shop.event.Delegator(jindo.$Element(document.body), new Array("click", "touchstart", "touchend", "touchmove", "touchcancel", "change", "mousemove", "mouseover", "mouseout", "keyup", "mousedown", "mouseup", "contextmenu"));
+	
+var layout=new shop.layout.LayoutHandler();layout.scrollToTop();jindo.$Element(window).attach("orientationchange",function(){layout.scrollToTop();});var hss=new shop.layout.SimpleSearch('searchForm','msearch',false,'hClearBt','hShopSearchBt','hNaverSearchBt');var searchOptions={};searchOptions.query=shop.Base64.decode('c3BlcnJ5IDAyOTc0MzI=');searchOptions.iq=shop.Base64.decode('');searchOptions.brand=shop.Base64.decode('');searchOptions.maker=shop.Base64.decode('');searchOptions.spec=shop.Base64.decode('');searchOptions.series=shop.Base64.decode('');searchOptions.mall=shop.Base64.decode('');searchOptions.color=shop.Base64.decode('');searchOptions.pagingIndex=1;searchOptions.pagingSize=5;searchOptions.productSet='total';searchOptions.viewType='lst';searchOptions.searchBy='none';searchOptions.sort='price_asc';searchOptions.cat_id='';searchOptions.minPrice='';searchOptions.maxPrice='';searchOptions.free_deli=false;searchOptions.card_discount=false;searchOptions.coupon=false;searchOptions.point=false;searchOptions.promotion=false;searchOptions.ncash=false;searchOptions.used=false;searchOptions.oldModel=false;searchOptions.newModel=false;searchOptions.surl=shop.Base64.decode('');searchOptions.forMobileApp=shop.Base64.decode('');var searchResult={};searchResult.total=34;var reloader=new shop.search2.SearchReloader(searchOptions,true,searchResult);reloader.nclickPrefix='lst';var searchTab=new shop.search2.SearchFilterTab('_filterAreaTabWrapper','_filterAreaHiddenTitle','category',reloader);var searchProduct=new shop.search2.SearchProduct();function toggleLegalNotice(ele){var detail=jindo.$Element('_law_notice');var title=jindo.$Element('legal_title');var anchor=jindo.$Element(ele);if(detail.visible()){title.html('펼쳐보기 <span class="hm"></span>');anchor.removeClass('on');clickcr(ele,'lwn.fold','','',event);}else{title.html('접어보기 <span class="hm"></span>');anchor.addClass('on');clickcr(ele,'lwn.unfold','','',event);}
+detail.toggle();}
+var makeShortCut=function(intentUrl){clickcr(jindo.$('make_shortcut_btn'),'fot.shortcut','','',null);window.location=intentUrl;return;}
+</script></body>
+</html>

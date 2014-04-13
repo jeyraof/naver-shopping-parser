@@ -1,0 +1,26 @@
+language: python
+
+python:
+- '2.7'
+
+env:
+  global:
+    - secure: CU+YhmmRwmLs5+d5zoQXRl5tN/SI5VzlTAnMFQGUVfPsGUJoUVwV5G27qCkz4otRsE2TOWxCiISbQCv/nJubDwe9bHl0qHEqWijY3UpKYOObAhaT5XLdlaRZChbin6gtGSJT7rPxGx+8hjzT4BK0guitskgDF0coL5L7C/jXK1I=
+
+install:
+  - git clone https://github.com/jeyraof/naver-shopping-parser.git
+  - cd naver-shopping-parser
+  - python setup.py install
+
+script:
+  - pwd
+  - py.test
+
+branches:
+  only:
+    - master
+
+notifications:
+  email: false
+  irc:
+    - "irc.ozinger.org#freyja"

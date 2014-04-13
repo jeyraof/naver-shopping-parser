@@ -77,8 +77,7 @@ Usage
 
 Continuous Integration (Travis CI)
 ----------------------------------
-    http://travis-ci.org/jeyraof/naver-shopping-parser
 
-    .. image:: https://travis-ci.org/jeyraof/monodiary.net.png?branch=master
-        :alt: Build Status
-        :target: http://travis-ci.org/jeyraof/naver-shopping-parser
+.. image:: https://travis-ci.org/jeyraof/monodiary.net.png?branch=master
+    :alt: Build Status
+    :target: http://travis-ci.org/jeyraof/naver-shopping-parser

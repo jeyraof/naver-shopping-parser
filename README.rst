@@ -49,7 +49,7 @@ To solve this error nicely, first of all, you can install lxml clearly.
 Usage
 -----
 
-.. colde-block:: python
+.. code-block:: python
 
     >>> from shopping_parser import NaverShopping, Condition
     >>>

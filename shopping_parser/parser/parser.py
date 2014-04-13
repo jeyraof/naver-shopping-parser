@@ -116,7 +116,6 @@ class NaverShopping(object):
             total = float(j.text_content().strip().split()[-1])
         return [data, total]
 
-
     def __repr__(self):
         return u'<NaverShopping %s>' % self.keyword
 

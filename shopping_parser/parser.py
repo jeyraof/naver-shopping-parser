@@ -96,18 +96,18 @@ class NaverShopping(object):
 
         data = []
         for item in tree.cssselect('li.sr_lst'):
-            thumb = ''
-            name = 'Unknown'
-            price = '0'
+            thumb = u''
+            name = u'Unknown'
+            price = u'0'
 
             for j in item.cssselect('div.thmb img'):
-                thumb = j.get('src', '')
+                thumb = j.get('src', u'')
 
             for j in item.cssselect('dl.info dt.tit'):
-                name = j.text_content()
+                name = j.text_content().encode('utf-8')
 
             for j in item.cssselect('dl.info dd.price em'):
-                price = j.text_content()
+                price = j.text_content().encode('utf-8')
 
             data.append(Item(thumb=thumb, name=name, price=price))
 
@@ -117,7 +117,7 @@ class NaverShopping(object):
         return [data, total]
 
     def __repr__(self):
-        return u'<NaverShopping %s>' % self.keyword
+        return u'<NaverShopping - %s>' % self.keyword
 
 
 class Item(object):
@@ -130,9 +130,9 @@ class Item(object):
     """
 
     def __init__(self, **kwargs):
-        self.thumb = kwargs.get('thumb', '')
-        self.name = kwargs.get('name', 'Unknown')
-        self.price = kwargs.get('price', '0')
+        self.thumb = kwargs.get('thumb', u'')
+        self.name = kwargs.get('name', u'Unknown')
+        self.price = kwargs.get('price', u'0')
 
-    def __str__(self):
-        return u'<%s %s>' % (self.price, self.thumb)
+    def __repr__(self):
+        return '<%s - %s>' % (self.name, self.price)

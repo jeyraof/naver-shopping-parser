@@ -46,33 +46,31 @@ class NaverShopping(object):
         self.keyword = keyword
         self.paging_index = 1
 
-        url = self.__build_url()
-        i = self.parse_url(url)
-        self.total = i[1]
-        return i[0]
+        data, total = self.do_search_process()
+        self.total = total
+        return data
 
     def prev(self):
         if not self.keyword:
-            raise NoPreviousSearchError
+            raise NoPreviousSearchError()
 
         if self.paging_index <= 1:
-            raise NoMorePreviousPageError
+            raise NoMorePreviousPageError()
         else:
             self.paging_index -= 1
 
-        url = self.__build_url()
-        return self.parse_url(url)[0]
+        data, total = self.do_search_process()
+        return data
 
     def next(self):
         if not self.keyword:
-            raise NoPreviousSearchError
+            raise NoPreviousSearchError()
 
         if ceil(self.total / self.condition.ea) == self.paging_index:
-            raise NoMoreNextPageError
+            raise NoMoreNextPageError()
 
-        self.paging_index += 1
-        url = self.__build_url()
-        return self.parse_url(url)[0]
+        data, total = self.do_search_process()
+        return data
 
     def __build_url(self):
         url = self.pre_url + urlencode({
@@ -83,12 +81,21 @@ class NaverShopping(object):
         })
         return url
 
-    def parse_url(self, url=None):
+    def do_search_process(self):
+        url = self.__build_url()
+        html_string = self.parse_url(url)
+        data, total = self.parse_html(html_string)
+
+        return data, total
+
+    @staticmethod
+    def parse_url(url=None):
         if not url:
-            raise NoUrlGivenError
+            raise NoUrlGivenError()
         r = Request(url=url)
         response = urlopen(r, timeout=30)
-        return self.parse_html(response.read())
+
+        return response.read()
 
     @staticmethod
     def parse_html(html_string=''):
@@ -114,7 +121,7 @@ class NaverShopping(object):
         total = 0.0
         for j in tree.cssselect('span.sr_pg2_total'):
             total = float(j.text_content().strip().split()[-1])
-        return [data, total]
+        return data, total
 
     def __repr__(self):
         return u'<NaverShopping - %s>' % self.keyword
@@ -124,9 +131,10 @@ class Item(object):
     """
     Item object
 
-    * self.thumb: thumbnail url for item
-    * self.name: name of item
-    * self.price: price of item
+    * Properties
+    - thumb: thumbnail url for item
+    - name: name of item
+    - price: price of item
     """
 
     def __init__(self, **kwargs):

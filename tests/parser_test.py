@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 import os
 import os.path
+import codecs
 
-from shopping_parser import NaverShopping
+from shopping_parser import NaverShopping, Condition
 
 
 def test_parse_html():
-    import codecs
     html = codecs.open(os.path.join(os.path.dirname(__file__), 'assets', 'test_html.txt'), encoding='utf-8').read()
 
     r = NaverShopping.parse_html(html)

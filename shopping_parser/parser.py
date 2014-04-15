@@ -120,7 +120,7 @@ class NaverShopping(object):
 
         total = 0.0
         for j in tree.cssselect('span.sr_pg2_total'):
-            total = float(j.text_content().strip().split()[-1])
+            total = j.text_content().strip().split()[-1]
         return data, total
 
     def __repr__(self):
